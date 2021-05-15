@@ -1,0 +1,10 @@
+{
+  "apiKey": "put_your_apiKey_here",
+  "secret": "put_your_secret_here",
+  "sub_account": "put_your_subaccount's_name_here",
+  "account_name": "named your account",
+  "pair": "BTC/USD",
+  "token_name": "BTC",
+  "rebalance_percentage": 0.5,
+  "min_diff_percentage" : 0.0025
+}
